@@ -24,3 +24,8 @@ address {
 a {
     text-decoration: none;
 }
+
+/* Testo con lista */
+ul {
+    padding-left: 15px;
+}
