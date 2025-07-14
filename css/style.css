@@ -40,3 +40,18 @@ th {
 .odd {
     background-color: lightblue;
 }
+
+/* Correlati */
+.related {
+    color: white;
+    background-repeat: no-repeat;
+    height: 200px;
+}
+
+#monitor {
+    background-image: url(../img/monitor.jpg);
+}
+
+#graph {
+    background-image: url(../img/graph.jpg);
+}
