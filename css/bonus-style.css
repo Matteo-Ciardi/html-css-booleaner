@@ -13,12 +13,23 @@ header {
     margin-bottom: 20px;
 }
 
-/* Titolo e info */
-h1 {
+/* Utils */
+.no-margin {
     margin: 0px;
+}
+
+.bot-margin {
+    margin-bottom: 30px;
 }
 
 /* Immagini */
 figure {
     margin-top: 30px;
+}
+
+/* Correlati */
+.related {
+    margin-top: 15px;
+    padding-top: 10px;
+    padding-left: 10px;
 }
