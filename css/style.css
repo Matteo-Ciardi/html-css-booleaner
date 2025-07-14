@@ -25,6 +25,10 @@ address {
     color: dodgerblue;
 }
 
+.text-grey {
+    color: rgb(110, 108, 108);
+}
+
 /* Immagini */
 figure {
     margin-left: 0px;
