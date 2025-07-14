@@ -1,3 +1,12 @@
+/* Utils */
+.text-grey {
+    color: rgb(110, 108, 108);
+}
+
+.text-size {
+    font-size: 12px;
+}
+
 /* Header */
 #main-header {
     height: 100px;
@@ -24,10 +33,6 @@ address {
 
 .author {
     color: dodgerblue;
-}
-
-.text-grey {
-    color: rgb(110, 108, 108);
 }
 
 /* Immagini */
