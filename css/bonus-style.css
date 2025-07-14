@@ -1,3 +1,8 @@
+/* Body */
+body {
+    margin: 0px;
+}
+
 /* Container */
 .container {
     margin: 0px 200px;
@@ -32,9 +37,4 @@ figure {
     margin-top: 15px;
     padding-top: 10px;
     padding-left: 10px;
-}
-
-/* Body */
-body {
-    margin: 0px;
 }
