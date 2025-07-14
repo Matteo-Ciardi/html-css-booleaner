@@ -9,3 +9,18 @@
 #logo {
     height: 60px;
 }
+
+/* Main */
+
+/* Titolo e info */
+h1 {
+    font-size: 40px;
+}
+
+address {
+    font-style: normal;
+}
+
+a {
+    text-decoration: none;
+}
