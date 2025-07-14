@@ -14,11 +14,12 @@
 
 /* Titolo e info */
 h1 {
-    font-size: 40px;
+    font-size: 60px;
 }
 
 address {
     font-style: normal;
+    font-size: 20px;
 }
 
 .author {
