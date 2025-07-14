@@ -29,3 +29,14 @@ a {
 ul {
     padding-left: 15px;
 }
+
+/* Tabella */
+th {
+    text-align: left;
+    background-color: dodgerblue;
+    color: white;
+}
+
+.odd {
+    background-color: lightblue;
+}
